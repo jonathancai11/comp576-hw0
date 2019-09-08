@@ -1,0 +1,1 @@
+# This is the README for Task 6 of my COMP 576 HW\#0 submission.
